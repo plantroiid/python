@@ -11,5 +11,4 @@ MY CODING PROJECTS in python, to learn more about this awesome programming langu
 
 # finished
 
-> " chatbot "
-`the computer does a little chat with you` ˎˊ-
+> `chatbot`  ˎˊ-
