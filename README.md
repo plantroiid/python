@@ -4,4 +4,12 @@ working on opensourcing my python projects to teach, inspire, and help people un
 MY CODING PROJECTS in python, to learn more about this awesome programming language. well, i'm so glad you chose to learn PYTHON !!!` ˎˊ-
 
 # status
-`dong everything one step at a time :^)` ˎˊ-
+`doing everything one step at a time :^)` ˎˊ-
+
+# currently working on...
+`a game using GUI (graphical user interfaces) so that it has visuals!` ˎˊ-
+
+# finished
+
+> " chatbot "
+`the computer does a little chat with you` ˎˊ-
